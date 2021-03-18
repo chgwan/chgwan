@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chgwan
-- 👀 I’m interested in Rein
+- 👀 I’m interested in time-series processing
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
