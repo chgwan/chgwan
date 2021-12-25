@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chgwan
 - 👀 I’m interested in time-series processing
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning Pytorch, Tensorflow
 - 💞️ I’m looking to collaborate on machine learning, C/C++
 - 📫 How to reach me ...
 
