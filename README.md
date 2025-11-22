@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chgwan
 - 👀 I’m interested in time-series processing
-- 🌱 I’m currently learning Pytorch, Tensorflow
-- 💞️ I’m looking to collaborate on machine learning, tokamak control.
+- 🌱 I’m currently working on AI for Fusion
+- 💞️ I’m looking to collaborate on AI for tokamak control and modeling
 
 <!---
 chgwan/chgwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
